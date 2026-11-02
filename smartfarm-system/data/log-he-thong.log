@@ -1,0 +1,24 @@
+2026-10-12 08:00:02 [INFO] sensor-01 Heartbeat OK
+2026-10-12 08:05:41 [INFO] sensor-02 Heartbeat OK
+2026-10-12 08:15:01 [ERROR] sensor-03 Connection TIMEOUT after 30s
+2026-10-12 08:20:10 [INFO] gateway Sync completed 120 records
+2026-10-12 08:32:44 [WARNING] sensor-05 Battery low 18%
+2026-10-12 08:40:09 [ERROR] api 404 Not Found /api/sensor/12
+2026-10-12 08:55:30 [INFO] sensor-04 Heartbeat OK
+2026-10-12 09:03:17 [ERROR] sensor-03 Connection TIMEOUT after 30s
+2026-10-12 09:10:00 [INFO] backup Daily snapshot started
+2026-10-12 09:18:52 [WARNING] sensor-02 Humidity out of range 96%
+2026-10-12 09:25:36 [CRITICAL] database Disk usage 97% on /var/lib/db
+2026-10-12 09:41:05 [INFO] sensor-01 Heartbeat OK
+2026-10-12 10:02:48 [ERROR] sensor-03 Connection TIMEOUT after 30s
+2026-10-12 10:15:20 [INFO] gateway Sync completed 98 records
+2026-10-12 10:30:11 [WARNING] sensor-06 Firmware outdated v1.2
+2026-10-12 10:44:59 [INFO] sensor-04 Heartbeat OK
+2026-10-12 11:01:23 [ERROR] api 404 Not Found /api/sensor/27
+2026-10-12 11:12:37 [CRITICAL] sensor-03 Power supply failure
+2026-10-12 11:30:00 [INFO] backup Daily snapshot finished
+2026-10-12 11:45:14 [WARNING] sensor-05 Battery low 12%
+2026-10-12 12:00:03 [INFO] sensor-02 Heartbeat OK
+2026-10-12 12:20:46 [ERROR] sensor-05 Connection TIMEOUT after 30s
+2026-10-12 12:35:08 [INFO] gateway Sync completed 110 records
+2026-10-12 12:50:27 [INFO] sensor-01 Heartbeat OK

@@ -1,0 +1,18 @@
+﻿BAO CAO SU CO - SMARTFARM
+Ngay lap: 2026-11-02 07:17:48
+Nguon du lieu: data/log-he-thong.log
+Muc do: ERROR, CRITICAL
+========================================
+CHI TIET CAC SU CO:
+2026-10-12 08:15:01 [ERROR] sensor-03 Connection TIMEOUT after 30s
+2026-10-12 08:40:09 [ERROR] api 404 Not Found /api/sensor/12
+2026-10-12 09:03:17 [ERROR] sensor-03 Connection TIMEOUT after 30s
+2026-10-12 09:25:36 [CRITICAL] database Disk usage 97% on /var/lib/db
+2026-10-12 10:02:48 [ERROR] sensor-03 Connection TIMEOUT after 30s
+2026-10-12 11:01:23 [ERROR] api 404 Not Found /api/sensor/27
+2026-10-12 11:12:37 [CRITICAL] sensor-03 Power supply failure
+2026-10-12 12:20:46 [ERROR] sensor-05 Connection TIMEOUT after 30s
+========================================
+TONG SO SU CO: 8
+ERROR: 6
+CRITICAL: 2
